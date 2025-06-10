@@ -8,5 +8,4 @@ o.tabstop = 4
 o.softtabstop = 4
 -- add yours here!
 
--- local o = vim.o
 -- o.cursorlineopt ='both' -- to enable cursorline!

@@ -11,7 +11,7 @@ lspconfig.servers = {
   -- "gopls",
   -- "hls",
   -- "ols",
-  "pyright",
+  "ruff",
   "marksman",
 }
 

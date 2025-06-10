@@ -5,8 +5,8 @@ local options = {
     -- cpp = { "clang-format" },
     -- go = { "gofumpt", "goimports-reviser", "golines" },
     -- haskell = { "fourmolu", "stylish-haskell" },
-    python = { "isort", "black" },
-    markdon = { "prettier" },
+    python = { "ruff" },
+    markdown = { "prettier" },
   },
 
   formatters = {
