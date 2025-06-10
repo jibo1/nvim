@@ -6,7 +6,7 @@ local options = {
     -- go = { "gofumpt", "goimports-reviser", "golines" },
     -- haskell = { "fourmolu", "stylish-haskell" },
     python = { "ruff" },
-    markdown = { "prettier" },
+    markdown = { "mdformat" },
   },
 
   formatters = {

@@ -12,14 +12,15 @@ lspconfig.servers = {
   -- "hls",
   -- "ols",
   "ruff",
-  "marksman",
+  "markdown_oxide",
 }
 
 -- list of servers configured with default config.
 local default_servers = {
   -- "ols",
-  "marksman",
-  "pyright",
+  "markdown_oxide",
+  "ruff",
+  "lua_ls",
 }
 
 -- lsps with default config
